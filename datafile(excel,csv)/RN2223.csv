@@ -1,0 +1,64 @@
+num,Year ,season ,city,colorname,hexcode,cv,color,symbol
+1,22/23,A/W,Nework,LAVA FALLS ,A71C28,trend,RED,"매혹적, 존재감, 열정적인"
+2,22/23,A/W,Nework,SAMOAN SUN ,F5BF4D,trend,YELLOW,"쾌활, 조명, 계몽"
+3,22/23,A/W,Nework,ORANGE TIGER,FC6503,trend,ORANGE,기발한
+4,22/23,A/W,Nework,ROSE VIOLET ,D33591,trend,RED,"비비드한, 생기가득한"
+5,22/23,A/W,Nework,AMAZON,02784C,trend,GREEN,"무성한, 비옥한, 활엽수"
+6,22/23,A/W,Nework,NOSEGAY ,FDBEDB,trend,PINK,향기로운 
+7,22/23,A/W,Nework,WATERSPOUT,7AD1D8,trend,BLUE,"시원한,투명한,신선한, 상쾌한"
+8,22/23,A/W,Nework,CARAMEL CAF?,944C1A,trend,BROWN,"은은한, 유혹적인, 맛있는 카라멜"
+9,22/23,A/W,Nework,MIDNIGHT,1E576E,trend,BLUE,"저녁하늘, 최면의 "
+10,22/23,A/W,Nework,MARTINI OLIVE ,6C6344,trend,BROWN,그린톤
+11,22/23,A/W,Nework,ARCTIC WOLF,EDE4D3,classic,WHITE,"부드러운, 음영의 "
+12,22/23,A/W,Nework,AUTUMN BLONDE,F1CDA9,classic,BROWN,부드러운
+13,22/23,A/W,Nework,POLAR NIGHT,33343F,classic,BLACK,"우주의, 새로운, 미스터리"
+14,22/23,A/W,Nework,LODEN FROST,708E6F,classic,GREEN,"진정, 회복, 지구 "
+15,22/23,A/W,Nework,CHISELED STONE,8E9094,classic,GRAY,"묵직한, 힘"
+16,22,S/S,Nework,SPUN SUGAR,CEE9F3,trend,BLUE,"바람이 잘통하는, 달달한"
+17,22,S/S,Nework,GOSSAMER PINK,F6D4D2,trend,PINK,"뽀송한,가벼운, 부드러운"
+18,22,S/S,Nework,INNUENDO,E5015F,trend,PINK,"높은, 가시성, 감동적인"
+19,22,S/S,Nework,SKYDIVER,04436F,trend,BLUE,"새로운차원,영감"
+20,22,S/S,Nework,DAFFODIL,FEBE35,trend,YELLOW,연결된
+21,22,S/S,Nework,GLACIER LAKE,83AACA,trend,BLUE,"진정함, 고요한,냉각"
+22,22,S/S,Nework,HARBOR BLUE,02626F,trend,GREEN,"안전한, 탐색"
+23,22,S/S,Nework,COCA MOCHA,6F452B,trend,BROWN,따뜻한
+24,22,S/S,Nework,DAHLIA,81057C,trend,PURPLE,"다이나믹,눈에 띄는"
+25,22,S/S,Nework,POINCIANA,E5070A,trend,RED,"강렬한,극적인"
+26,22,S/S,Nework,SNOW WHITE,E6E6E3,classic,WHITE,"깨끗한, 순수함, 단순한, 열망 "
+27,22,S/S,Nework,PERFECTLY PALE,E1D5CF,classic,BROWN,"은은한, 부드러운, 편안한"
+28,22,S/S,Nework,BASIL,81A582,classic,GREEN,"달콤한, 짭짤한, 건강, 웰빙"
+29,22,S/S,Nework,NORTHERN DROPLET,C4C6C9,classic,GRAY,"고요한, 옅은"
+30,22,S/S,Nework,POPPY SEED,58575C,classic,GRAY,"변치않은, 친숙함, 힘"
+31,22/23,A/W,Rondon,MOLTEN LAVA,B6342F,trend,red,"강렬한,불타오르는"
+32,22/23,A/W,Rondon,DRAGON FIRE,E96F3A,trend,orange,"에너지, 흥분"
+33,22/23,A/W,Rondon,MEADOW VIOLET,855C8F,trend,purple,"매혹적인, 음모"
+34,22/23,A/W,Rondon,ABUNDANT GREEN,23532D,trend,green,"풍부한, 무성한, 단풍"
+35,22/23,A/W,Rondon,SPICY MUSTARD,D7B049,trend,yellow,"매운, 눈에 띄는"
+36,22/23,A/W,Rondon,LICHEN BLUE,5079A5,trend,blue,"자연적인, 평온함"
+37,22/23,A/W,Rondon,STRAWBERRY CREAM,EFC0C0,trend,pink,"은은한, 달콤한"
+38,22/23,A/W,Rondon,WATERSPOUT,7AD1D8,trend,blue,"시원한,투명한,신선한, 상쾌한"
+39,22/23,A/W,Rondon,CHICORY COFFEE,442C28,trend,brown,"볶은, 흙빛"
+40,22/23,A/W,Rondon,CARDAMOM SEED,7b7b38,trend,green,"시트러스, 허브"
+41,22/23,A/W,Rondon,TAPIOCA,E1D4C3,Classics,brown,"부드러운, 기분좋은"
+42,22/23,A/W,Rondon,ICED COFFEE,AE8D67,Classics,brown,매력적인
+43,22/23,A/W,Rondon,PEACH CARAMEL,C4743D,Classics,orange,"따뜻한, 달콤한"
+44,22/23,A/W,Rondon,BLUEBERRY,22272E,Classics,black,"깊고, 진한"
+45,22/23,A/W,Rondon,QUIET SHADE,67676E,Classics,black,"눈에 거슬리지 않은, 견고함"
+46,22,S/S  ,Rondon,CASCADE,89CDC0,trend,blue,"투명한, 상쾌한, 시원한"
+47,22,S/S  ,Rondon,CORAL ROSE,CE643F,trend,orange,"비비드한, 에너지, 존재감"
+48,22,S/S  ,Rondon,SUPER SONIC,2E6093,trend,blue,강렬한
+49,22,S/S  ,Rondon,POPCORN,F9E595,trend,yellow,"밝고, 유쾌한, 따뜻한"
+50,22,S/S  ,Rondon,POTP OURRI,EAD3D6,trend,pink,"가벼운, 근심없는, 상큼한"
+51,22,S/S  ,Rondon,BUBBLEGUM,E97A96,trend,pink,"눈길을 사로잡는, 장난기있는, 긍정적인"
+52,22,S/S  ,Rondon,SUDAN BROWN,A96022,trend,brown,"자연적, 풍부한 흙, 대자연"
+53,22,S/S  ,Rondon,FRAGILE SPROUT,BEC53F,trend,green,"날카로운, 신맛나는, 신선한, 새싹"
+54,22,S/S  ,Rondon,ORCHID BLOOM,DACCE1,trend,purple,"자연, 고조된, 사랑"
+55,22,S/S  ,Rondon,COFFEE QUARTZ,503A2E,trend,brown,풍미있는
+56,22,S/S  ,Rondon,WHITE ALYSSUM,EEEDEB,Classics,white,"깨끗한, 명료한, 나태한"
+57,22,S/S  ,Rondon,HUMUS,C7B39C,Classics,brown,"고전, 실용적인, 웰빙"
+58,22,S/S  ,Rondon,FAIR GREEN,96B58E,Classics,green,"진정, 원기회복, 편안한"
+59,22,S/S  ,Rondon,NORTHERN DROPLET,C9CBCB,Classics,gray,고요한
+60,22,S/S  ,Rondon,POPPY SEED,58575C,Classics,gray,"변치않은, 친숙함, 힘"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
